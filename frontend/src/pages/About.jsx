@@ -16,7 +16,7 @@ const About = () => {
   const values = [
     {
       title: 'Innovation',
-      description: 'We continuously innovate to provide the best job matching experience.',
+      description: 'We continuously innovate to provide the best job matching experience. ?????????????',
       icon: Target
     },
     {
